@@ -1,0 +1,4 @@
+@use 'variables';
+.test {
+  background-color: variables.$app-yellow;
+}

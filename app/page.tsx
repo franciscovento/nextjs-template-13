@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main>texto</main>;
+  return <main className="test blue text-primary">texto</main>;
 }
